@@ -16,11 +16,17 @@ monster is zombie, the AI of which is designed using the expected Sarsa and a si
 
 
 As the project is too big, I put the .zip file in Baidu Cloud, the URL is:
-项目过大无法上传，存放于百度网盘
+
+项目过大无法上传，存放于百度网盘:
+
 https://pan.baidu.com/s/169sw_Kqu8TI3tVJN4s0amg 
+
 Retrieve Password: v8pz 
+
 提取密码：v8pz 
+
 Game screenshots are shown below.
+
 ![1](https://user-images.githubusercontent.com/41991958/129158379-9687c8b8-b811-4a5b-9df4-ab17ec10f3ce.PNG)
 ![3](https://user-images.githubusercontent.com/41991958/129158384-cd20da90-75de-4bad-af20-8f55510d9e8f.PNG)
 ![f15](https://user-images.githubusercontent.com/41991958/129158386-91f5f1bc-6293-4a2a-b6fd-08febce6b781.PNG)
